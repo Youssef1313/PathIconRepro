@@ -1,0 +1,16 @@
+{
+  "solution": {
+    "path": "PathIconRepro.sln",
+    "projects": [
+		"PathIconRepro\\PathIconRepro.csproj",
+
+		"PathIconRepro.Mobile\\PathIconRepro.Mobile.csproj",
+
+		"PathIconRepro.Wasm\\PathIconRepro.Wasm.csproj",
+
+		"PathIconRepro.Skia.Gtk\\PathIconRepro.Skia.Gtk.csproj",
+
+		"PathIconRepro.Skia.Gtk\\PathIconRepro.Skia.Gtk.csproj",
+    ]
+  }
+}

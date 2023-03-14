@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "PathIconRepro.Server": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:62313;http://localhost:62314"
+    }
+  }
+}
